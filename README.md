@@ -1,1 +1,3 @@
-# GRIET
+# GRIET 
+
+Undergraduate sample portfolio
