@@ -1,3 +1,3 @@
-# GRIET 
+# PORTFOLIO
 
 Undergraduate sample portfolio
